@@ -1,9 +1,9 @@
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=bbkanev18&bg_color=grey&theme=tokyonight&show_icons=true&count_private=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=bbkanev18&count_private=true&show_icons=true&theme=tokyonight">
 </p>
 </br>
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bbkanev18&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bbkanev18&layout=compact&theme=tokyonight">
 </p>
 
 <!--
