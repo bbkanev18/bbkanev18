@@ -1,6 +1,10 @@
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=bbkanev18&bg_color=grey&theme=tokyonight&show_icons=true&count_private=true">
 </p>
+</br>
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bbkanev&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true">
+</p>
 
 <!--
 **bbkanev18/bbkanev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
